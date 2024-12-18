@@ -1,16 +1,11 @@
 <h1 align="center">Hello Hello 👋, Glad to see you here!</h1>
-<h3 align="center">I'm Emil, a 22 year old Software Engineering student from Helsinki, Finland 🇫🇮</h3>
+<h3 align="left">I'm Emil, a 22 year old Software Engineering student from Helsinki, Finland 🇫🇮</h3>
 
-I am a highly motivated software development enthusiast with a proven track record of building functional and innovative solutions. My journey into software engineering began at a young age, programming small games in Game Maker, and has since evolved into a deep commitment to solving real-world problems through technology.
-
-One of my proudest achievements is the development of [Zeltly](https://zeltly.com), a CRM application that showcases my skills in end-to-end software design, coding, and deployment. Through this, I gained valuable experience in modern software development practices, such as:
-
-- Full-stack development
-- Agile project management
-- Secure coding practices
-- Infrastructure design and deployment
+I'm a software development enthusiast with a proven track record of building functional and innovative solutions. My journey into software engineering began at a young age, programming small games in Game Maker, and has since evolved into a deep commitment to solving real-world problems through technology.
 
 I am currently pursuing opportunities to deepen my knowledge in software production and engineering through academic study and practical application. My ultimate goal is to lead software projects that make a meaningful impact on users and businesses alike.
+
+###
 
 - 🌱 Currently learning **React, Redis and DevOps**
 - 👯 I’m looking to collaborate on **interesting projects related to real world problems**
@@ -42,9 +37,10 @@ I am currently pursuing opportunities to deepen my knowledge in software product
 
 #
 
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=EmilBlumenthalDev&show_icons=true&locale=en&layout=compact" alt="EmilBlumenthalDev" /></p>
+
+
 ## 🔗 Connect With Me
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/emil-blumenthal/)
-- ✉️ [Email](mailto:emil.blumenthal@protonmail.com)
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=EmilBlumenthalDev&show_icons=true&locale=en&layout=compact" alt="EmilBlumenthalDev" /></p>
+💼 [LinkedIn](https://www.linkedin.com/in/emil-blumenthal/)
+✉️ [Email](mailto:emil.blumenthal@protonmail.com)
