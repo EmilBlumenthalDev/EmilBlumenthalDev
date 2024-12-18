@@ -1,4 +1,4 @@
-<h1 align="center">Hello Hello, Glad to see you here!</h1>
+<h1 align="center">Hello Hello 👋, Glad to see you here!</h1>
 <h3 align="center">I'm Emil, a 22 year old Software Engineering student from Helsinki, Finland 🇫🇮</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=snoxbox" alt="snoxbox" /></a> </p>
