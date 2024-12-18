@@ -37,10 +37,9 @@ I currently study information and communications science at Metropolia Universit
 
 #
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=EmilBlumenthalDev&show_icons=true&locale=en&layout=compact" alt="EmilBlumenthalDev" /></p>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=EmilBlumenthalDev)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ## 🔗 Connect With Me
-
 - 💼 [LinkedIn](https://www.linkedin.com/in/emil-blumenthal/)
 - 📧 [Email](mailto:emil.blumenthal@protonmail.com)
