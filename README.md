@@ -3,11 +3,11 @@
 
 I'm a software development enthusiast with a proven track record of building functional and innovative solutions. My journey into software engineering began at a young age, programming small games in Game Maker, and has since evolved into a deep commitment to solving real-world problems through technology.
 
-I am currently pursuing opportunities to deepen my knowledge in software production and engineering through academic study and practical application. My ultimate goal is to lead software projects that make a meaningful impact on users and businesses alike.
+I currently study information and communications science at Metropolia University of Applied Sciences, where I have honed my skills in software development, project management, and user experience design. My ultimate goal is to lead software projects that make a meaningful impact on users and businesses alike.
 
 ###
 
-- 🌱 Currently learning **React, Redis and DevOps**
+- 📚 Currently learning **React, Redis and DevOps**
 - 👯 I’m looking to collaborate on **interesting projects related to real world problems**
 - 💬 Ask me about **[Zeltly](https://zeltly.com)**
 - 📫 How to reach me **emil.blumenthal@protonmail.com**
@@ -42,5 +42,5 @@ I am currently pursuing opportunities to deepen my knowledge in software product
 
 ## 🔗 Connect With Me
 
-💼 [LinkedIn](https://www.linkedin.com/in/emil-blumenthal/)
-✉️ [Email](mailto:emil.blumenthal@protonmail.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/emil-blumenthal/)
+- 📧 [Email](mailto:emil.blumenthal@protonmail.com)
