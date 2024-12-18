@@ -5,12 +5,6 @@ I'm a software development enthusiast with a proven track record of building fun
 
 I currently study information and communications science at Metropolia University of Applied Sciences, where I have honed my skills in software development, project management, and user experience design. My ultimate goal is to lead software projects that make a meaningful impact on users and businesses alike.
 
-
-- Suunnittelin ja kehittelin CRM-alustan käyttäjälähtöisellä lähestymistavalla.
-- Toteutin vankan backend-logiikan ja frontend-käyttöliittymät tehokkuuden ja skaalautuvuuden parantamiseksi.
-- Kehitin käytännön osaamista tietokantojen hallinnassa, API-integraatioissa ja kolmannen osapuolen työkalujen integroinnissa.
-- Suunnittelin ja toteutin 
-
 ###
 
 - 📚 Currently learning **React, data structures and algorithms**
