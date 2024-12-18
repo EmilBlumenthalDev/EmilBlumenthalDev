@@ -1,14 +1,9 @@
 <h1 align="center">Hello Hello 👋, Glad to see you here!</h1>
 <h3 align="center">I'm Emil, a 22 year old Software Engineering student from Helsinki, Finland 🇫🇮</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=snoxbox" alt="snoxbox" /></a> </p>
-
 - 🔭 In my spare time I'm working on [Zeltly CRM](https://zeltly.com)
-
 - 🌱 I’m currently learning **React, Redis and DevOps**
-
 - 💬 Ask me about **Zeltly,**
-
 - 📫 How to reach me **emil.blumenthal@protonmail.com**
 
 <h3 align="left">Connect with me:</h3>
