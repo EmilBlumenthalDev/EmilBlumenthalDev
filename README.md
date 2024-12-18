@@ -1,4 +1,4 @@
-<h1 align="center">Hello Hello 👋, Glad to see you here!</h1>
+<h1 align="left">Hello Hello 👋, Glad to see you here!</h1>
 <h3 align="left">I'm Emil, a 22 year old Software Engineering student from Helsinki, Finland 🇫🇮</h3>
 
 I'm a software development enthusiast with a proven track record of building functional and innovative solutions. My journey into software engineering began at a young age, programming small games in Game Maker, and has since evolved into a deep commitment to solving real-world problems through technology.
