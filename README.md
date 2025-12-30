@@ -7,7 +7,7 @@ I currently study information and communications science at Metropolia Universit
 
 ###
 
-- 📚 Currently learning **React, data structures and algorithms**
+- 📚 Currently learning **System design**
 - 👯 I’m looking to collaborate on **interesting projects related to real world problems**
 - 💬 Ask me about **[Zeltly](https://zeltly.com)**
 - 📫 How to reach me **emil.blumenthal@protonmail.com**
