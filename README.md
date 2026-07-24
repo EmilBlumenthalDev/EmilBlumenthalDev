@@ -35,11 +35,6 @@ I currently study information and communications science at Metropolia Universit
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="mysql" width="30" height="30" style="padding-right:10px;"/>  
 </p>
 
-#
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=EmilBlumenthalDev)](https://github.com/anuraghazra/github-readme-stats)
-
-
 ## 🔗 Connect With Me
 - 💼 [LinkedIn](https://www.linkedin.com/in/emil-blumenthal/)
 - 📧 [Email](mailto:emil.blumenthal@protonmail.com)
