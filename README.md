@@ -43,3 +43,13 @@ I currently study information and communications science at Metropolia Universit
 ## 🔗 Connect With Me
 - 💼 [LinkedIn](https://www.linkedin.com/in/emil-blumenthal/)
 - 📧 [Email](mailto:emil.blumenthal@protonmail.com)
+
+
+<!-- GITHUBWALLPAPER:START -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://pub-98d2cd4dac4e4a9d899b190ba95f3ace.r2.dev/cards/htohmd4zbyrd0j354j5yk8ts-dark.svg?v=1784894472362">
+  <source media="(prefers-color-scheme: light)" srcset="https://pub-98d2cd4dac4e4a9d899b190ba95f3ace.r2.dev/cards/htohmd4zbyrd0j354j5yk8ts-light.svg?v=1784894472362">
+  <img alt="GitHub profile card" src="https://pub-98d2cd4dac4e4a9d899b190ba95f3ace.r2.dev/cards/htohmd4zbyrd0j354j5yk8ts-dark.svg?v=1784894472362">
+</picture>
+<p align="right"><sub><a href="https://githubwallpaper.com">made with githubwallpaper.com</a></sub></p>
+<!-- GITHUBWALLPAPER:END -->
