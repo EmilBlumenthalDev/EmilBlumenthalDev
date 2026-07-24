@@ -35,11 +35,6 @@ I currently study information and communications science at Metropolia Universit
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="mysql" width="30" height="30" style="padding-right:10px;"/>  
 </p>
 
-## 🔗 Connect With Me
-- 💼 [LinkedIn](https://www.linkedin.com/in/emil-blumenthal/)
-- 📧 [Email](mailto:emil.blumenthal@protonmail.com)
-
-
 <!-- GITHUBWALLPAPER:START -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://pub-98d2cd4dac4e4a9d899b190ba95f3ace.r2.dev/cards/htohmd4zbyrd0j354j5yk8ts-dark.svg?v=1784894472362">
@@ -48,3 +43,7 @@ I currently study information and communications science at Metropolia Universit
 </picture>
 <p align="right"><sub><a href="https://githubwallpaper.com">made with githubwallpaper.com</a></sub></p>
 <!-- GITHUBWALLPAPER:END -->
+
+## 🔗 Connect With Me
+- 💼 [LinkedIn](https://www.linkedin.com/in/emil-blumenthal/)
+- 📧 [Email](mailto:emil.blumenthal@protonmail.com)
