@@ -1,15 +1,24 @@
+<!-- GITHUBWALLPAPER:START -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://pub-98d2cd4dac4e4a9d899b190ba95f3ace.r2.dev/cards/htohmd4zbyrd0j354j5yk8ts-dark.svg?v=1784894472362">
+  <source media="(prefers-color-scheme: light)" srcset="https://pub-98d2cd4dac4e4a9d899b190ba95f3ace.r2.dev/cards/htohmd4zbyrd0j354j5yk8ts-light.svg?v=1784894472362">
+  <img alt="GitHub profile card" src="https://pub-98d2cd4dac4e4a9d899b190ba95f3ace.r2.dev/cards/htohmd4zbyrd0j354j5yk8ts-dark.svg?v=1784894472362">
+</picture>
+<p align="right"><sub><a href="https://githubwallpaper.com">made with githubwallpaper.com</a></sub></p>
+<!-- GITHUBWALLPAPER:END -->
+
+
 <h1 align="left">Hello Hello 👋, Glad to see you here!</h1>
 <h3 align="left">I'm Emil, a Software Engineer from Helsinki, Finland 🇫🇮</h3>
 
-I'm a software development enthusiast with a proven track record of building functional and innovative solutions. My journey into software engineering began at a young age, programming small games in Game Maker, and has since evolved into a deep commitment to solving real-world problems through technology.
+Focused on absorbing new skills and information. My journey into software engineering began with small games in Game Maker, and has since evolved into a deep commitment to solving real-world problems through technology.
 
-I currently study information and communications science at Metropolia University of Applied Sciences, where I have honed my skills in software development, project management, and user experience design. My ultimate goal is to lead software projects that make a meaningful impact on users and businesses alike.
+I working as a Software & GTM engineer at [Valpas](https://valpashotels.com/) and writing my thesis on using Agentic Retrieval-augmented generation to assist in intepreting and adapting Finnish collective labor agreements.
 
 ###
 
 - 📚 Currently learning **System design**
-- 👯 I’m looking to collaborate on **interesting projects related to real world problems**
-- 💬 Ask me about **[Zeltly](https://zeltly.com)**
+- 💬 Ask me about **[Valpas](https://valpashotels.com)**
 - 📫 How to reach me **emil.blumenthal@protonmail.com**
 
 ### 🧰 Technologies I Work With
@@ -34,15 +43,6 @@ I currently study information and communications science at Metropolia Universit
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="nodejs" width="30" height="30" style="padding-right:10px;"/>  
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="mysql" width="30" height="30" style="padding-right:10px;"/>  
 </p>
-
-<!-- GITHUBWALLPAPER:START -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://pub-98d2cd4dac4e4a9d899b190ba95f3ace.r2.dev/cards/htohmd4zbyrd0j354j5yk8ts-dark.svg?v=1784894472362">
-  <source media="(prefers-color-scheme: light)" srcset="https://pub-98d2cd4dac4e4a9d899b190ba95f3ace.r2.dev/cards/htohmd4zbyrd0j354j5yk8ts-light.svg?v=1784894472362">
-  <img alt="GitHub profile card" src="https://pub-98d2cd4dac4e4a9d899b190ba95f3ace.r2.dev/cards/htohmd4zbyrd0j354j5yk8ts-dark.svg?v=1784894472362">
-</picture>
-<p align="right"><sub><a href="https://githubwallpaper.com">made with githubwallpaper.com</a></sub></p>
-<!-- GITHUBWALLPAPER:END -->
 
 ## 🔗 Connect With Me
 - 💼 [LinkedIn](https://www.linkedin.com/in/emil-blumenthal/)
